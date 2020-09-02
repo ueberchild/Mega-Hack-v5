@@ -10,8 +10,11 @@ TODO
 TODO
 # GD playing tips
 * Turn off vsync and smooth fix. This is super important to uncancer your gameplay.
-* Use higher FPS. That really makes the difference, game reacts more accurately to your clicks at higher FPS. It may broke some levels: try fixing them in editor.
+* Use higher FPS. That really makes the difference, game reacts more accurately to your clicks at higher FPS. It may breaks some levels: try fixing them in editor. And you don't need a costly high Hz monitor for high FPS, rather the opposite.
 * Prefer Practice Mode over StartPoses. The latter are buggy (mostly for low FPS).
 * Ignore Daily/Weekly levels, Map Packs, cases, etc. These features are meant just for grinding and also Daily/Weekly menus tend to crash the game.
-* Enable UHD textures. These don't affect performance really.
+* Enable UHD textures. These don't affect performance.
 * Consider enabling global LDM and setting a texture pack.
+* Play in fullscreen. Larger and less laggy.
+* Play with headphones. Don't you disturb others.
+* Play while standing. Don't you just sit on your ass.
